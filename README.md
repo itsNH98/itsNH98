@@ -2,7 +2,7 @@
 
 PhD Candidate in Finance, Rotman School of Management, University of Toronto.
 
-I study **information economics in financial markets** — how beliefs form, aggregate, and move prices. My work combines market microstructure and behavioral asset pricing, with applications in equity markets, prediction markets, and retail trading.
+When market participants hold heterogeneous beliefs and frictions bind — who trades, who wins, what gets priced, and what gets built?
 
 **Working Papers:**
 - Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket (with Pat Akey, Vincent Grégoire, and Charles Martineau) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)
